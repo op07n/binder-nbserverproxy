@@ -1,4 +1,4 @@
-git
+GitPython
 streamlit
 jupyter-server-proxy 
 nbserverproxy

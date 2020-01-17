@@ -4,5 +4,11 @@ jupyter-server-proxy
 nbserverproxy
 numpy
 pandas
+pandas-profiling
 sklearn
 plotly
+matplotlib
+seaborn
+joblib
+termcolor
+scikit-learn

@@ -6,7 +6,6 @@ channels:
 dependencies:
   - ipykernel
   - python=3.7
-  - torch
   - torchvision
   - pip
   - pip:
@@ -16,6 +15,9 @@ dependencies:
     - streamlit
     - jupyter-server-proxy 
     - nbserverproxy
+    - datetime
+    - transformers
+    - torch
     - fastai
     - numpy
     - pandas

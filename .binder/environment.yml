@@ -9,6 +9,7 @@ dependencies:
   - torchvision
   - pip
   - pip:
+    - https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz
     - GitPython
     - pathtools
     - Pillow==6.1.0
@@ -21,8 +22,11 @@ dependencies:
     - fastai
     - numpy
     - scipy
+    - joblib    
     - pandas
     - pandas-profiling
+    - tweepy    
+    - spacy
     - sklearn
     - plotly
     - matplotlib
@@ -33,3 +37,7 @@ dependencies:
     - bokeh
     - holoviews
     - scikit-learn
+    - altair
+    - python-decouple
+    - sqlalchemy
+    - psycopg2

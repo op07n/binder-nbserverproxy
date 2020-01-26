@@ -41,3 +41,4 @@ dependencies:
     - python-decouple
     - sqlalchemy
     - psycopg2
+    - fbprophet

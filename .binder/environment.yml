@@ -41,4 +41,5 @@ dependencies:
     - python-decouple
     - sqlalchemy
     - psycopg2
+    - holidays==0.9.8
     - fbprophet

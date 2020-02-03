@@ -48,3 +48,4 @@ dependencies:
     - typing
     - librosa
     - pydub
+    - Jinja2

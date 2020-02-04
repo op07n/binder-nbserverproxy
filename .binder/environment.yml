@@ -56,3 +56,6 @@ dependencies:
     - folium
     - descartes
     - Shapely
+    - geopy
+    - rasterio
+    - pyshp

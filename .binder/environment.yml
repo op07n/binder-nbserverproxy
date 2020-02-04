@@ -52,3 +52,7 @@ dependencies:
     - vega-datasets
     - PyYAML
     - nltk
+    - geopandas
+    - folium
+    - descartes
+    - Shapely

@@ -50,3 +50,4 @@ dependencies:
     - pydub
     - Jinja2
     - vega-datasets
+    - PyYAML

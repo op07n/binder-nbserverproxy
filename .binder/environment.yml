@@ -49,3 +49,4 @@ dependencies:
     - librosa
     - pydub
     - Jinja2
+    - vega-datasets
